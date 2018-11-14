@@ -1,0 +1,163 @@
+commit f104c310a139ebcb3294bd301a35de129c2b7106
+Merge: 4caa38b e66e46a
+Author: NotEmilioAG99 <luis.emilio99@hotmail.com>
+Date:   Wed Nov 7 11:31:06 2018 -0600
+
+    Resolvi los conflictos
+
+commit 4caa38b85601b08bf4b3e6220191ad561727e7d1
+Author: NotEmilioAG99 <luis.emilio99@hotmail.com>
+Date:   Wed Nov 7 11:26:08 2018 -0600
+
+    Actualizacion local
+
+commit e66e46ab40be5c9299e0ea212dc4088ed68e64c5
+Author: NotEmilioAG99 <44034926+NotEmilioAG99@users.noreply.github.com>
+Date:   Wed Nov 7 11:24:52 2018 -0600
+
+    Update tarea10.txt
+    
+    Modificación remota tarea 10
+
+commit f5deee3612f581b2406b08909dea6d351e9d795c
+Merge: 80e1f95 480f3f3
+Author: NotEmilioAG99 <luis.emilio99@hotmail.com>
+Date:   Wed Nov 7 11:14:09 2018 -0600
+
+    Merge branch 'master' of http://github.com/NotEmilioAG99/practicasTC1022
+    
+    Este merge es para combinar tarea10 local con tarea 11 remota
+
+commit 480f3f34ce89d270aad7434a8d8006ef392ccd09
+Author: NotEmilioAG99 <44034926+NotEmilioAG99@users.noreply.github.com>
+Date:   Wed Nov 7 11:13:20 2018 -0600
+
+    Create Tarea11.txt
+    
+    Subí mi tarea en el repositorio remoto
+
+commit 829d54e3e7ee6e83be2952f8ab67592120a81852
+Author: NotEmilioAG99 <44034926+NotEmilioAG99@users.noreply.github.com>
+Date:   Wed Nov 7 11:12:44 2018 -0600
+
+    Delete tarea11.txt
+
+commit 04bb3c447b3315341678c3774b9f885d53b0980d
+Author: NotEmilioAG99 <44034926+NotEmilioAG99@users.noreply.github.com>
+Date:   Wed Nov 7 11:12:27 2018 -0600
+
+    Create tarea11.txt
+
+commit 80e1f9518c6abdd29589723177593dff0df2aad5
+Author: NotEmilioAG99 <luis.emilio99@hotmail.com>
+Date:   Wed Nov 7 11:11:07 2018 -0600
+
+    tarea local
+
+commit da592361a8b790f9c88503263d0c27b798bdd6c6
+Author: NotEmilioAG99 <luis.emilio99@hotmail.com>
+Date:   Wed Oct 24 15:58:02 2018 -0500
+
+    T5.2Eventocisco.gpg
+
+commit dab959094a9f8fd80e17853d4df15b8aca1f06de
+Author: NotEmilioAG99 <44034926+NotEmilioAG99@users.noreply.github.com>
+Date:   Wed Oct 24 15:54:02 2018 -0500
+
+    Add files via upload
+    
+    Platicas Cisco
+
+commit efc3bc57371dd1d4d2c12949a00d8a4d0fb1b5fd
+Author: NotEmilioAG99 <luis.emilio99@hotmail.com>
+Date:   Wed Oct 24 13:26:13 2018 -0500
+
+    T4.2PlaticaDeloitte.gpg
+
+commit cc79a81276f5d6234182db6f8d19ea23c5d4b960
+Author: NotEmilioAG99 <44034926+NotEmilioAG99@users.noreply.github.com>
+Date:   Wed Oct 24 15:46:21 2018 -0500
+
+    Add files via upload
+    
+    Plática Deloitte
+
+commit 3d9ca1f2044d7263c012bb1cd718152ad3e2d7ab
+Author: NotEmilioAG99 <luis.emilio99@hotmail.com>
+Date:   Wed Oct 24 13:18:31 2018 -0500
+
+    T3.1VisitaFacebook.gpg
+
+commit e9f25dbe23c3f6ef78baa560cb1b38ee8c88b0ec
+Author: NotEmilioAG99 <44034926+NotEmilioAG99@users.noreply.github.com>
+Date:   Wed Oct 24 15:36:46 2018 -0500
+
+    Add files via upload
+    
+    Plática de Faceboook
+
+commit e5c1f9ab6c19a4b27fb9396480e466e44b0053ce
+Author: NotEmilioAG99 <luis.emilio99@hotmail.com>
+Date:   Wed Oct 24 13:09:11 2018 -0500
+
+    T2.1EventoMicrosoft.gpg
+
+commit 1c6a11374065bfe3ea72f4f26fb9069baafcb8d0
+Author: NotEmilioAG99 <44034926+NotEmilioAG99@users.noreply.github.com>
+Date:   Wed Oct 24 15:27:50 2018 -0500
+
+    Add files via upload
+    
+    Plática Microsoft
+
+commit bff959694528bad68c118747c5cfef6876373666
+Author: NotEmilioAG99 <luis.emilio99@hotmail.com>
+Date:   Wed Oct 24 12:57:24 2018 -0500
+
+    T1.1PlaticaDrinkIQ.gpg
+
+commit 4a7caf6a55da2683d9a3ed6259ace89659b0a65f
+Author: NotEmilioAG99 <44034926+NotEmilioAG99@users.noreply.github.com>
+Date:   Wed Oct 24 12:44:51 2018 -0500
+
+    Add files via upload
+    
+    Platica DrinkIQ
+
+commit b38afdde3d5d3993e841ae14314d15ef84f84ed4
+Author: NotEmilioAG99 <44034926+NotEmilioAG99@users.noreply.github.com>
+Date:   Wed Oct 24 12:42:45 2018 -0500
+
+    Delete Plática miércoles .docx
+
+commit 5d7b068d98b8fcedeff317fff9fad3687bb2803c
+Author: NotEmilioAG99 <44034926+NotEmilioAG99@users.noreply.github.com>
+Date:   Wed Oct 24 12:33:06 2018 -0500
+
+    Add files via upload
+
+commit ee7617125539401cf769c6647005966853a02c0f
+Author: NotEmilioAG99 <44034926+NotEmilioAG99@users.noreply.github.com>
+Date:   Wed Oct 24 11:49:01 2018 -0500
+
+    Add files via upload
+
+commit 35004188666b631c417c0c4653532240870215b9
+Author: NotEmilioAG99 <44034926+NotEmilioAG99@users.noreply.github.com>
+Date:   Wed Oct 24 11:45:21 2018 -0500
+
+    Add files via upload
+    
+    Tarea Plática DrinkIQ
+
+commit d546d429945c0a52ec099b134330ca2ffb63b4d3
+Author: NotEmilioAG99 <luis.emilio99@hotmail.com>
+Date:   Wed Oct 24 11:35:24 2018 -0500
+
+    exportar llaves publicas y privadas
+
+commit 6986a8b3d10cffd45ed85947a140995cb81d1358
+Author: NotEmilioAG99 <luis.emilio99@hotmail.com>
+Date:   Wed Oct 10 12:55:51 2018 -0500
+
+    primer commit
